@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+node_modules/
+sessions/
+tools/
+data/groups_state.json
+data/subbots.json
+*.log
